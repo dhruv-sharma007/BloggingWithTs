@@ -2,9 +2,9 @@
   "name": "oneblogts",
   "version": "1.0.0",
   "description": "blogging application in typescript",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "nodemon --ext ts --exec ts-node src/index.ts"
+    "dev": "nodemon --ext ts --exec ts-node src/server.ts"
   },
   "keywords": [
     "typescript",
